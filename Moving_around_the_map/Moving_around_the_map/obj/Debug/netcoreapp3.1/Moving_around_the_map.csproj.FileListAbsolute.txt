@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\bin\Debug\netcoreapp3.1\Moving_around_the_map.exe
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\bin\Debug\netcoreapp3.1\Moving_around_the_map.deps.json
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\bin\Debug\netcoreapp3.1\Moving_around_the_map.runtimeconfig.json
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\bin\Debug\netcoreapp3.1\Moving_around_the_map.runtimeconfig.dev.json
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\bin\Debug\netcoreapp3.1\Moving_around_the_map.dll
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\bin\Debug\netcoreapp3.1\Moving_around_the_map.pdb
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.AssemblyInfo.cs
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.dll
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.pdb
+C:\Users\serge\source\repos\homework (05.04.22)\Moving_around_the_map\Moving_around_the_map\obj\Debug\netcoreapp3.1\Moving_around_the_map.genruntimeconfig.cache

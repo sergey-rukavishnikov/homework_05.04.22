@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\bin\Debug\netcoreapp3.1\Portion_selection.exe
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\bin\Debug\netcoreapp3.1\Portion_selection.deps.json
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\bin\Debug\netcoreapp3.1\Portion_selection.runtimeconfig.json
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\bin\Debug\netcoreapp3.1\Portion_selection.runtimeconfig.dev.json
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\bin\Debug\netcoreapp3.1\Portion_selection.dll
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\bin\Debug\netcoreapp3.1\Portion_selection.pdb
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.AssemblyInfo.cs
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.dll
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.pdb
+C:\Users\serge\source\repos\homework (05.04.22)\Portion_selection\Portion_selection\obj\Debug\netcoreapp3.1\Portion_selection.genruntimeconfig.cache

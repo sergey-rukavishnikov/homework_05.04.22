@@ -1,0 +1,13 @@
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\bin\Debug\netcoreapp3.1\Random_light.exe
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\bin\Debug\netcoreapp3.1\Random_light.deps.json
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\bin\Debug\netcoreapp3.1\Random_light.runtimeconfig.json
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\bin\Debug\netcoreapp3.1\Random_light.runtimeconfig.dev.json
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\bin\Debug\netcoreapp3.1\Random_light.dll
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\bin\Debug\netcoreapp3.1\Random_light.pdb
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.AssemblyInfoInputs.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.AssemblyInfo.cs
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.dll
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.pdb
+C:\Users\serge\source\repos\homework (05.04.22)\Random_light\Random_light\obj\Debug\netcoreapp3.1\Random_light.genruntimeconfig.cache
